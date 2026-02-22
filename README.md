@@ -1,4 +1,4 @@
 # himanshulloydian
 this is my  first repo
 <br>
-author - himanshu (lloyd)
+author - himanshu (lloyd student)
